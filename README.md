@@ -38,9 +38,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
+
+
 <p align="left">
-  <a href="https://dev.to/tterb">
-    <img src="https://user-images.githubusercontent.com/16360374/87501757-be259100-c614-11ea-854d-77405a469ca2.png" alt="Dev.to" height="45" />
+  <a href="https://www.facebook.com/jtindori">
+    <img src="https://www.flaticon.com/svg/static/icons/svg/20/20673.svg" alt="Dev.to" height="45" />
   </a>
   <a href="https://www.npmjs.com/~tterb">
     <img src="https://user-images.githubusercontent.com/16360374/87503303-b5cf5500-c618-11ea-836e-065bbc221a12.png" alt="npm" height="45" />
@@ -51,7 +53,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
   <a href="https://www.buymeacoffee.com/kBZ9V2w8h">
     <img src="https://user-images.githubusercontent.com/16360374/87501619-60914480-c614-11ea-8c13-a8a5129e7448.png" alt="Buy me a coffee" height="45" />
   </a>
-  <a href="https://twitter.com/bstevensondev">
+  <a href="https://twitter.com/jaydeeptindori">
     <img src="https://user-images.githubusercontent.com/16360374/87503304-b5cf5500-c618-11ea-88ad-eebb40f570b2.png" alt="Twitter" height="45" />
   </a>
 </p>
