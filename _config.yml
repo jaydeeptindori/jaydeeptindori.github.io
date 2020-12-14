@@ -6,7 +6,7 @@ description: Senior Research Fellow @ Atmospheric Devision, ARIES Nainital
 email: jaydeep@aries.res.in
 twitter_username: jaydeeptindori
 github_username: jaydeeptindori
-
+show_downloads: true
 
 plugins:
  - jekyll-feed
