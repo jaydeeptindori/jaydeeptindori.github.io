@@ -1,4 +1,5 @@
-theme: jekyll-theme-minimal
+theme: minima
+#jekyll-theme-minimal
 
 title: Jaydeep Singh
 logo: IMG-20190817-WA0004.jpg
