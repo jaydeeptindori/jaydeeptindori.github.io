@@ -42,3 +42,39 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 [![Star on GitHub](https://img.shields.io/github/stars/jonsn0w/hyde.svg?style=social)](https://github.com/jonsn0w/hyde/stargazers)
 [![Tweet](https://img.shields.io/twitter/url/https/github.com/jonsn0w/hyde.svg?style=social)](https://twitter.com/intent/tweet?text=Check%20out%20Hyde!%20%E2%9C%A8%20An%20accessible,%20open-source%20markdown%20editor%20for%20any%20user%20E2%9C%A8%20https://github.com/jonsn0w/hyde%20%F0%9F%A4%97)
 
+
+<link rel="stylesheet" href="dist/css/social-sharing.css">
+<a class="btn-tweet" href="#">Twitter</a>
+<a class="btn-facebook" href="#">Facebook</a>
+<a class="btn-google" href="#">Google+</a>
+<a class="btn-linkedin" href="#">LinkedIn</a>
+<a class="btn-pinterest" href="#">Pinterest</a>
+<a class="btn-github" href="#">GitHub</a>
+<a class="btn-vk" href="#">VK</a>
+<a class="btn-xing" href="#">Xing</a>
+<a class="btn-tumblr" href="#">Tumblr</a>
+<a class="btn-reddit" href="#">Reddit</a>
+
+<a target="_blank" href="https://twitter.com/intent/tweet?text=YOUR-TITLE&url=YOUR-URL&via=TWITTER-HANDLE">Tweet</a>
+
+<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=YOUR-URL">Share on Facebook</a>
+
+<a target="_blank" href="https://plus.google.com/share?url=YOUR-URL">Plus on Google+</a>
+
+<a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=YOUR-URL&title=YOUR-TITLE&summary=YOUR-SUMMARY&source=YOUR-URL">Share on LinkedIn</a>
+
+<a target="_blank" href="https://pinterest.com/pin/create/button/?url=YOUR-URL&description=YOUR-DESCRIPTION&media=YOUR-IMAGE-SRC">Pin on Pinterest</a>
+
+<a target="_blank" href="https://vk.com/share.php?url=YOUR-URL&title=YOUR-TITLE&description=YOUR-DESCRIPTION&image=YOUR-IMAGE-SRC&noparse=true">Share on VK</a>
+
+<a target="_blank" href="https://www.xing-share.com/app/user?op=share;sc_p=xing-share;url=YOUR-URL">Share on Xing</a>
+
+<a target="_blank" href="http://www.tumblr.com/share/link?url=YOUR-URL&description=YOUR-DESCRIPTION">Share on Tumblr</a>
+
+<a target="_blank" href="http://www.reddit.com/submit?url=YOUR_URL&title=YOUR_TITLE">Share on Reddit</a>
+
+
+
+
+
+
