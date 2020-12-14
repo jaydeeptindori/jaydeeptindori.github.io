@@ -43,6 +43,30 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 [![Tweet](https://img.shields.io/twitter/url/https/github.com/jonsn0w/hyde.svg?style=social)](https://twitter.com/intent/tweet?text=Check%20out%20Hyde!%20%E2%9C%A8%20An%20accessible,%20open-source%20markdown%20editor%20for%20any%20user%20E2%9C%A8%20https://github.com/jonsn0w/hyde%20%F0%9F%A4%97)
 
 
+<p align="left">
+  <a href="https://dev.to/tterb">
+    <img src="https://user-images.githubusercontent.com/16360374/87501757-be259100-c614-11ea-854d-77405a469ca2.png" alt="Dev.to" height="45" />
+  </a>
+  <a href="https://www.npmjs.com/~tterb">
+    <img src="https://user-images.githubusercontent.com/16360374/87503303-b5cf5500-c618-11ea-836e-065bbc221a12.png" alt="npm" height="45" />
+  </a>
+  <a href="https://dribbble.com/tterb">
+    <img src="https://user-images.githubusercontent.com/16360374/87503301-b536be80-c618-11ea-8c99-45cce807ce83.png" alt="Dribbble" height="45" />
+  </a>
+  <a href="https://www.buymeacoffee.com/kBZ9V2w8h">
+    <img src="https://user-images.githubusercontent.com/16360374/87501619-60914480-c614-11ea-8c13-a8a5129e7448.png" alt="Buy me a coffee" height="45" />
+  </a>
+  <a href="https://twitter.com/bstevensondev">
+    <img src="https://user-images.githubusercontent.com/16360374/87503304-b5cf5500-c618-11ea-88ad-eebb40f570b2.png" alt="Twitter" height="45" />
+  </a>
+</p>
+
+
+
+
+
+
+
 <link rel="stylesheet" href="dist/css/social-sharing.css">
 <a class="btn-tweet" href="#">Twitter</a>
 <a class="btn-facebook" href="#">Facebook</a>
