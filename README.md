@@ -1,7 +1,7 @@
 ## Welcome to my webpage
-# [Home](https://www.internetingishard.com/html-and-css/basic-web-pages/)   [About](www.facebook.com/)  [Research](https://www.facebook.com/) [Publications](https://www.internetingishard.com/html-and-css/basic-web-pages/) [Blogs](https://www.facebook.com/)  [Contact us](https://www.facebook.com/)
+# [About](www.facebook.com/)  [Research](https://www.facebook.com/) [Blogs](https://www.facebook.com/)  [Contact us](https://www.facebook.com/)
 
-
+[Publications](https://www.internetingishard.com/html-and-css/basic-web-pages/) 
 You can use the [editor on GitHub](https://www.internetingishard.com/html-and-css/basic-web-pages/) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
