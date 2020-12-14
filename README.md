@@ -44,7 +44,18 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
   <a href="https://www.facebook.com/jtindori">
     <img src="https://www.flaticon.com/svg/static/icons/svg/20/20673.svg" alt="Dev.to" height="45" />
   </a>
-  <a href="https://twitter.com/jaydeeptindori">
+
+<a href="https://www.researchgate.net/profile/Jaydeep_Singh4">
+    <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/researchgate_icon_130843.png" alt="Dev.to" height="45" />
+  </a>
+
+<a href="https://github.com/jaydeeptindori">
+    <img src="https://www.flaticon.com/svg/static/icons/svg/25/25231.svg" alt="Dev.to" height="45" />
+  </a>
+
+
+
+<a href="https://twitter.com/jaydeeptindori">
     <img src="https://user-images.githubusercontent.com/16360374/87503304-b5cf5500-c618-11ea-88ad-eebb40f570b2.png" alt="Twitter" height="45" />
   </a>
 </p>
