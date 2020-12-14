@@ -4,38 +4,40 @@
 [Publications](https://www.internetingishard.com/html-and-css/basic-web-pages/) 
 You can use the [editor on GitHub](https://www.internetingishard.com/html-and-css/basic-web-pages/) to maintain and preview the content for your website in Markdown files.
 
-<!--Facebook-->
-<button type="button" class="btn btn-fb"><i class="fab fa-facebook-f pr-1"></i> Facebook</button>
+<html>
+  <!--Facebook-->
+<a class="btn-floating btn-lg btn-fb" type="button" role="button"><i class="fab fa-facebook-f"></i></a>
 <!--Twitter-->
-<button type="button" class="btn btn-tw"><i class="fab fa-twitter pr-1"></i> Twitter</button>
+<a class="btn-floating btn-lg btn-tw" type="button" role="button"><i class="fab fa-twitter"></i></a>
 <!--Google +-->
-<button type="button" class="btn btn-gplus"><i class="fab fa-google-plus-g pr-1"></i> Google +</button>
+<a class="btn-floating btn-lg btn-gplus" type="button" role="button"><i class="fab fa-google-plus-g"></i></a>
 <!--Linkedin-->
-<button type="button" class="btn btn-li"><i class="fab fa-linkedin-in pr-1"></i> Linkedin</button>
+<a class="btn-floating btn-lg btn-li" type="button" role="button"><i class="fab fa-linkedin-in"></i></a>
 <!--Instagram-->
-<button type="button" class="btn btn-ins"><i class="fab fa-instagram pr-1"></i> Instagram</button>
+<a class="btn-floating btn-lg btn-ins" type="button" role="button"><i class="fab fa-instagram"></i></a>
 <!--Pinterest-->
-<button type="button" class="btn btn-pin"><i class="fab fa-pinterest pr-1"></i> Pinterest</button>
+<a class="btn-floating btn-lg btn-pin" type="button" role="button"><i class="fab fa-pinterest"></i></a>
 <!--Vkontakte-->
-<button type="button" class="btn btn-vk"><i class="fab fa-vk pr-1"></i> Vkontakte</button>
+<a class="btn-floating btn-lg btn-vk" type="button" role="button"><i class="fab fa-vk"></i></a>
 <!--Stack Overflow-->
-<button type="button" class="btn btn-so"><i class="fab fa-stack-overflow pr-1"></i> Stack Overflow</button>
+<a class="btn-floating btn-lg btn-so" type="button" role="button"><i class="fab fa-stack-overflow"></i></a>
 <!--Youtube-->
-<button type="button" class="btn btn-yt"><i class="fab fa-youtube pr-1"></i> Youtube</button>
+<a class="btn-floating btn-lg btn-yt" type="button" role="button"><i class="fab fa-youtube"></i></a>
 <!--Slack-->
-<button type="button" class="btn btn-slack"><i class="fab fa-slack-hash pr-1"></i> Slack</button>
+<a class="btn-floating btn-lg btn-slack" type="button" role="button"><i class="fab fa-slack-hash"></i></a>
 <!--Github-->
-<button type="button" class="btn btn-git"><i class="fab fa-github pr-1"></i> Github</button>
+<a class="btn-floating btn-lg btn-git" type="button" role="button"><i class="fab fa-github"></i></a>
 <!--Comments-->
-<button type="button" class="btn btn-comm"><i class="fas fa-comments pr-1"></i> Comments</button>
+<a class="btn-floating btn-lg btn-comm" type="button" role="button"><i class="fas fa-comments"></i></a>
 <!--Email-->
-<button type="button" class="btn btn-email"><i class="fas fa-envelope pr-1"></i> Email</button>
+<a class="btn-floating btn-lg btn-email" type="button" role="button"><i class="fas fa-envelope"></i></a>
 <!--Dribbble-->
-<button type="button" class="btn btn-dribbble"><i class="fab fa-dribbble pr-1"></i> Dribbble</button>
+<a class="btn-floating btn-lg btn-dribbble" type="button" role="button"><i class="fab fa-dribbble"></i></a>
 <!--Reddit-->
-<button type="button" class="btn btn-reddit"><i class="fab fa-reddit-alien pr-1"></i> Reddit</button>
+<a class="btn-floating btn-lg btn-reddit" type="button" role="button"><i class="fab fa-reddit-alien"></i></a>
 <!--WhatsApp-->
-<button type="button" class="btn btn-whatsapp"><i class="fab fa-whatsapp pr-1"></i> Whatsapp</button>
+<a class="btn-floating btn-lg btn-whatsapp" type="button" role="button"><i class="fab fa-whatsapp"></i></a>
+  </html>
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
