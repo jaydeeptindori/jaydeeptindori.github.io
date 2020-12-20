@@ -12,9 +12,6 @@ Previously I work as Junior Research Fellow at ARIES, Nainital. I am pursuing my
 
 I'm interested in extreme weather events, boundary layer dynamics, pollutants transport processes, geophysical fluid dynamics, climate change studies, and deployment of deep learning/maching learing algorithms in weather and climate studies.
 
----
-### [Curriculum Vitae](cv_jaydeep_singh.pdf) &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; [Publication list](publications.html)
----
 
 ### Contact
 <p align="left">
@@ -32,20 +29,12 @@ I'm interested in extreme weather events, boundary layer dynamics, pollutants tr
   </a>
 </p>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jaydeeptindori/jaydeeptindori.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+---
+### [Curriculum Vitae](cv_jaydeep_singh.pdf) &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; [Publication list](publications.html)
+---
 
 
-
-
-
-
-
+### Recent news:
 
 
