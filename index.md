@@ -12,7 +12,7 @@ Previously I work as Junior Research Fellow at ARIES, Nainital. I am pursuing my
 
 I'm interested in extreme weather events, boundary layer dynamics, pollutants transport processes, geophysical fluid dynamics, climate change studies, and deployment of deep learning/maching learing algorithms in weather and climate studies.
 
-# [Curriculum Vitae](cv_jaydeep_singh.pdf) &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; [publication list](publications.html)
+# [Curriculum Vitae](cv_jaydeep_singh.pdf) &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; [Publication list](publications.html)
 
 
 ### Markdown
