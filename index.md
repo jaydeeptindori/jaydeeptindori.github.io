@@ -3,7 +3,7 @@ layout: default
 title: Jaydeep Singh
 ---
 
-## [About](https://jaydeeptindori.github.io/)  [Research](https://www.researchgate.net/profile/Jaydeep_Singh4) [Blogs](https://www.facebook.com/)  [Contact us](contact.html)
+## [About](https://jaydeeptindori.github.io/)   [Research](https://www.researchgate.net/profile/Jaydeep_Singh4)   [Blogs](https://www.facebook.com/)   [Contact us](contact.html)
 
 
 I am currently Senior Research Fellow at Atmospheric Devision, Aryabhatta Research Institute of Observational Sciences, Manora Peak, Naintal, India-263001.
