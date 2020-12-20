@@ -1,3 +1,8 @@
+---
+layout: default
+title: Jaydeep Singh
+---
+
 ## [About](https://jaydeeptindori.github.io/)  [Research](https://www.facebook.com/) [Blogs](https://www.facebook.com/)  [Contact us](https://www.facebook.com/)
 
 
