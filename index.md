@@ -3,7 +3,7 @@ layout: default
 title: Jaydeep Singh
 ---
 
-## [About](https://jaydeeptindori.github.io/)  [Research](https://www.facebook.com/) [Blogs](https://www.facebook.com/)  [Contact us](https://www.facebook.com/)
+## [About](https://jaydeeptindori.github.io/)  [Research](https://www.researchgate.net/profile/Jaydeep_Singh4) [Blogs](https://www.facebook.com/)  [Contact us](contact.html)
 
 
 I am currently Senior Research Fellow at Atmospheric Devision, Aryabhatta Research Institute of Observational Sciences, Manora Peak, Naintal, India-263001.
@@ -12,42 +12,12 @@ Previously I work as Junior Research Fellow at ARIES, Nainital. I am pursuing my
 
 I'm interested in extreme weather events, boundary layer dynamics, pollutants transport processes, geophysical fluid dynamics, climate change studies, and deployment of deep learning/maching learing algorithms in weather and climate studies.
 
-[[resume](resume.pdf)] &nbsp;&nbsp;&nbsp;&nbsp; [[curriculum vitae](cv.pdf)] &nbsp;&nbsp;&nbsp;&nbsp; [[github](https://github.com/docnok)] &nbsp;&nbsp;&nbsp;&nbsp; [[publication list](publications.html)]
+[Curriculum Vitae](cv_jaydeep_singh.pdf)] &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; [[publication list](publications.html)]
 
-<button name="button" onclick="http://www.google.com">Click me</button>
-
-
-[Publications](https://www.internetingishard.com/html-and-css/basic-web-pages/) 
-You can use the [editor on GitHub](https://www.internetingishard.com/html-and-css/basic-web-pages/) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jaydeeptindori/jaydeeptindori.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
