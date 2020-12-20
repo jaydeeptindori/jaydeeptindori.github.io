@@ -8,9 +8,9 @@ title: Jaydeep Singh
 
 I am currently Senior Research Fellow at Atmospheric Devision, Aryabhatta Research Institute of Observational Sciences, Manora Peak, Naintal, India-263001.
 
-Previously I work as junior research fellow at ARIES, Nainital. I am pursuing my Ph.D. from Department of Physics, DDU Gorakhpur University, Gorakhpur, where I am working in Modelling and observational aspect on meteorology over Himalaya Region. 
+Previously I work as Junior Research Fellow at ARIES, Nainital. I am pursuing my Ph.D. from Department of Physics, DDU Gorakhpur University, Gorakhpur, where I am working in Modelling and Observational aspect on Meteorology over Himalaya Region. 
 
-I'm interested in Extreme weather events, Boundary layer dynamics, pollutants transport processes, Geophysical fluid dynamics, Climate change studies, and deployment of Deep learning and Maching learing in weather and climate studies.
+I'm interested in extreme weather events, boundary layer dynamics, pollutants transport processes, geophysical fluid dynamics, climate change studies, and deployment of deep learning/maching learing algorithms in weather and climate studies.
 
 [[resume](resume.pdf)] &nbsp;&nbsp;&nbsp;&nbsp; [[curriculum vitae](cv.pdf)] &nbsp;&nbsp;&nbsp;&nbsp; [[github](https://github.com/docnok)] &nbsp;&nbsp;&nbsp;&nbsp; [[publication list](publications.html)]
 
