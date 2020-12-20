@@ -1,17 +1,11 @@
----
-layout: default
-title: Matthew Nokleby
----
-
 ## [About](https://jaydeeptindori.github.io/)  [Research](https://www.facebook.com/) [Blogs](https://www.facebook.com/)  [Contact us](https://www.facebook.com/)
-
 
 
 I am currently Senior Research Fellow at Atmospheric Devision, Aryabhatta Research Institute of Observational Sciences, Manora Peak, Naintal, India-263001.
 
-Previously I was a Director of Artificial Intelligence for Target and assistant professor at Wayne State University. I received my Ph.D. from Rice University, where I worked at the Center for Multimedia Communication.
+Previously I work as junior research fellow at ARIES, Nainital. I am pursuing my Ph.D. from Department of Physics, DDU Gorakhpur University, Gorakhpur, where I am working in Modelling and observational aspect on meteorology over Himalaya Region. 
 
-I'm interested in all things data and probability: machine/deep learning, computer vision and NLP, (stochastic, distributed) optimization, and information theory.
+I'm interested in Extreme weather events, Boundary layer dynamics, pollutants transport processes, Geophysical fluid dynamics, Climate change studies, and deployment of Deep learning and Maching learing in weather and climate studies.
 
 [[resume](resume.pdf)] &nbsp;&nbsp;&nbsp;&nbsp; [[curriculum vitae](cv.pdf)] &nbsp;&nbsp;&nbsp;&nbsp; [[github](https://github.com/docnok)] &nbsp;&nbsp;&nbsp;&nbsp; [[publication list](publications.html)]
 
