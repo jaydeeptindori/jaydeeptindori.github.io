@@ -34,7 +34,6 @@ I'm interested in extreme weather events, boundary layer dynamics, pollutants tr
 ### [Curriculum Vitae](cv_jaydeep_singh.pdf) &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; [Publication list](publications.html)
 ---
 
-
 ### Recent news:
-
-
+- July 2020: New paper, "Yearlong first measurements of black carbon in the western Indian Himalaya: Influences of meteorology and fire emissions," accepted for pubplication in  Atmospheric Pollution Research. The manuscript is available online [here](https://www.sciencedirect.com/science/article/pii/S1309104220301008)
+- March 2020: "Effects of spatial resolution on WRF v3.8.1 simulated meteorology over the central Himalaya," accepted to the review in Geoscientific Model Development (GMD). The under review preprint available [here](https://gmd.copernicus.org/preprints/gmd-2020-12/)..
