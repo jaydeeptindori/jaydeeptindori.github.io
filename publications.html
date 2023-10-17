@@ -5,39 +5,29 @@
 </head>
 <body>
     <h1>My Research Papers</h1>
-    <ul id="papers-list">
-        <!-- Research papers will be dynamically added here -->
-    </ul>
-
-    <script>
-        const papers = [
-            {
-                title: "Paper 1",
-                authors: "Author 1, Author 2",
-                publication: "Journal 1",
-                year: 20XX
-            },
-            {
-                title: "Paper 2",
-                authors: "Author 3, Author 4",
-                publication: "Journal 2",
-                year: 20XX
-            },
-            // Add more papers here
-        ];
-
-        const papersList = document.getElementById("papers-list");
-
-        papers.forEach((paper) => {
-            const listItem = document.createElement("li");
-            listItem.innerHTML = `
-                <strong>Title:</strong> ${paper.title}<br>
-                <strong>Authors:</strong> ${paper.authors}<br>
-                <strong>Published in:</strong> ${paper.publication}<br>
-                <strong>Year:</strong> ${paper.year}
-            `;
-            papersList.appendChild(listItem);
-        });
-    </script>
+    <ol style="list-style-type: none; padding: 0;">
+        <li>
+            <strong>Title:</strong> Paper Title 1 |
+            <strong>Authors:</strong> Author 1, Author 2 |
+            <strong>Published in:</strong> Journal/Conference Name 1 |
+            <strong>Year:</strong> 20XX |
+            <strong>DOI:</strong> <a href="https://doi.org/your-doi-1" target="_blank">your-doi-1</a>
+        </li>
+        <li>
+            <strong>Title:</strong> Paper Title 2 |
+            <strong>Authors:</strong> Author 3, Author 4 |
+            <strong>Published in:</strong> Journal/Conference Name 2 |
+            <strong>Year:</strong> 20XX |
+            <strong>DOI:</strong> <a href="https://doi.org/your-doi-2" target="_blank">your-doi-2</a>
+        </li>
+        <li>
+            <strong>Title:</strong> Paper Title 3 |
+            <strong>Authors:</strong> Author 5, Author 6 |
+            <strong>Published in:</strong> Journal/Conference Name 3 |
+            <strong>Year:</strong> 20XX |
+            <strong>DOI:</strong> <a href="https://doi.org/your-doi-3" target="_blank">your-doi-3</a>
+        </li>
+        <!-- Add more papers as needed -->
+    </ol>
 </body>
 </html>
