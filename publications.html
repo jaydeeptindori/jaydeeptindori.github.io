@@ -1,24 +1,43 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>My Publications</title>
+    <title>My Research Papers</title>
 </head>
 <body>
-    <h1>My Publications</h1>
-    <ul>
-        <li>
-            <strong>Title:</strong> Publication Title 1<br>
-            <strong>Authors:</strong> Author 1, Author 2<br>
-            <strong>Published in:</strong> Journal/Conference Name<br>
-            <strong>Year:</strong> 20XX
-        </li>
-        <li>
-            <strong>Title:</strong> Publication Title 2<br>
-            <strong>Authors:</strong> Author 1, Author 2<br>
-            <strong>Published in:</strong> Journal/Conference Name<br>
-            <strong>Year:</strong> 20XX
-        </li>
-        <!-- Add more publications as needed -->
+    <h1>My Research Papers</h1>
+    <ul id="papers-list">
+        <!-- Research papers will be dynamically added here -->
     </ul>
+
+    <script>
+        const papers = [
+            {
+                title: "Paper 1",
+                authors: "Author 1, Author 2",
+                publication: "Journal 1",
+                year: 20XX
+            },
+            {
+                title: "Paper 2",
+                authors: "Author 3, Author 4",
+                publication: "Journal 2",
+                year: 20XX
+            },
+            // Add more papers here
+        ];
+
+        const papersList = document.getElementById("papers-list");
+
+        papers.forEach((paper) => {
+            const listItem = document.createElement("li");
+            listItem.innerHTML = `
+                <strong>Title:</strong> ${paper.title}<br>
+                <strong>Authors:</strong> ${paper.authors}<br>
+                <strong>Published in:</strong> ${paper.publication}<br>
+                <strong>Year:</strong> ${paper.year}
+            `;
+            papersList.appendChild(listItem);
+        });
+    </script>
 </body>
 </html>
